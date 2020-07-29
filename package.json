@@ -16,7 +16,16 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.20.8",
+    "node": "^14.5.0",
     "nodemon": "^2.0.2",
     "pg": "^7.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim-SV/smart-brain-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vadim-SV/smart-brain-server/issues"
+  },
+  "homepage": "https://github.com/Vadim-SV/smart-brain-server#readme"
 }
